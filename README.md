@@ -1,4 +1,6 @@
 ABSTRACT
+
+
 Crime detection and prevention is a standardized method for the identification and study of crime patter
 ns and trends. Our program can predict regions that are highly likely to occur in crime, and can imagin
 e areas vulnerable to crime. Crime data analysts will help law enforcement officers speed up the crime

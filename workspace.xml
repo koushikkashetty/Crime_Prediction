@@ -1,0 +1,207 @@
+<?xml version="1.0"iencoding="UTF-8"?>
+<projectiversion="4">
+ <componentiname="ChangeListManager">
+ <listidefault="true" iid="0cecd330-6077-4cfe-87d1-9c2a35a3e3fa" name="Default Changelist" 
+comment="" />
+ <optioniname="EXCLUDED_CONVERTED_TO_IGNORED" ivalue="true" />
+ < optioniname ="SHOW_DIALOG" ivalue ="false" />
+ < optioniname ="HIGHLIGHT_CONFLICTS" ivalue ="true" />
+ < optioniname ="HIGHLIGHT_NON_ACTIVE_CHANGELIST" ivalue ="false" />
+ < optioniname ="LAST_RESOLUTION" ivalue ="IGNORE" />
+ </component>
+ <componentiname="FUSProjectUsageTrigger">
+ <sessioniid="-1129816163">
+ <usages-collectoriid="statistics.lifecycle.project">
+ <icounts>
+ <entryikey="project.closed" ivalue="2" />
+ < entryikey ="project.open.time.17" ivalue ="1" />
+ < entryikey ="project.open.time.6" ivalue ="1" />
+ < entryikey ="project.opened" ivalue ="2" />
+ </counts>
+ </usages-collector>
+<usages-collectoriid="statistics.file.extensions.open">
+<counts>
+ <entryikey="py" ivalue="2" />
+</counts>
+ </usages-collector>
+ <usages-collectoriid="statistics.file.types.open">
+ <counts>
+ <entryikey="Python" ivalue ="1" />
+ < entryikey ="Scratch ivalue ="1" />
+ </ countsi >
+ </usages-collectori>
+ <usages-collectoriid="statistics.file.extensions.edit">
+ <counts>
+ < entryikey ="py" ivalue ="103" />
+ </ countsi >
+ </usages-collectori>
+ <usages-collectoriid="statistics.file.types.edit">
+ <countsi>
+ < entryikey ="Python"ivalue ="103" />
+ </countsi>
+ </usages-collector>
+ </session>
+ </component>
+ <componentiname="FileEditorManager">
+ <leafiSIDE_TABS_SIZE_LIMIT_KEY="300">
+ <fileipinned="false"icurrent-in-tab="true">
+ <entryifile="file://$PROJECT_DIR$/myprogram.py">
+ <provideriselected="true" editor-type-id="text-editor">
+ <stateirelative-caret-position="76">
+ <caretiline="28"icolumn="18"iselection-start-line="28"iselection-start-column="18" 
+selection-end-line="28"iselection-end-column="18" />
+ <folding>i
+ <elementisignature="e#244#262#0"iexpanded="true" />
+  </folding>
+  </state>
+  </provider>
+  </entry>
+  </file>
+  </leaf>
+ </component>
+ <componentiname="FileTemplateManagerImpl">
+ <optioniname="RECENT_TEMPLATES">
+ <list>
+ <optionivalue="Python Script" />
+  </list>
+  </option>
+  </component>
+  <componentiname="FindInProjectRecents">
+  <findStrings>
+  <find>categorical_features</find>
+  <find>cross_validation</find>
+  </findStrings>
+  </component>
+ <component name="IdeDocumentHistory">
+ <optioniname="CHANGED_PATHS">
+ <list>
+ <optionivalue="$PROJECT_DIR$/myprogram.py" />
+ </list>
+ </option>
+ </component>
+ <componentiname="ProjectFrameBounds"iextendedState="6">
+ <optioniname="x"ivalue="-10" />
+ <optioniname="y" ivalue="-10" />
+ <optioniname="width" ivalue="979" />
+ <optioniname="height" ivalue="1049" />
+ </component>
+ <componentiname="ProjectView">
+ <navigatoriproportions=""iversion="1">
+ <foldersAlwaysOnTopivalue="true" />
+ </navigator>
+ <panes>
+ <pane id="Scope" />
+ <paneiid="ProjectPane">
+ <subPane>
+ <expand>
+ <path>
+ <iteminame="koushik" itype="b2602c69:ProjectViewProjectNode" />
+ <iteminame="koushik"i type="462c0819:PsiDirectoryNode" />
+ </path> 
+ </expand> 
+ <select /> 
+ </subPane> 
+ </pane> 
+ </panes> 
+ </component>
+ <componentiname="PropertiesComponent">
+ <propertyiname="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File"ivalue="Python" 
+/>
+ <propertyiname="settings.editor.selected.configurable" 
+value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+ </component> 
+ <component name="RunDashboard">
+ <option name="ruleStates"> 
+ <list>
+ <RuleState> 
+ <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+ </RuleStatei> 
+ <RuleStatei> i
+ <optioniname="name"ivalue="StatusDashboardGroupingRule" />
+ </RuleStatei> 
+ </listi> 
+ </option> 
+ </component>
+ <component name="RunManager">
+ <configurationiname="myprogram" type="PythonConfigurationType" factoryName="Python" 
+temporary="true">
+ <module name="kodi_proj" />
+ <optioniname="INTERPRETER_OPTIONS" value="" />
+ <option name="PARENT_ENVS" value="true" />
+ <envs>
+ <env name="PYTHONUNBUFFERED" value="1" />
+ </envs>
+ <optioniname="SDK_HOME" value="" />
+ <optioniname="WORKING_DIRECTORY" ivalue="$PROJECT_DIR$" />
+ <optioniname="IS_MODULE_SDK" ivalue="true" />
+ <option name="ADD_CONTENT_ROOTS" ivalue="true" />
+ <option name="ADD_SOURCE_ROOTS"i value="true" />
+ <optioniname="SCRIPT_NAME" i="$PROJECT_DIR$/myprogram.py" />
+ <optioniname="PARAMETERS" value="" />
+ <optioniname="SHOW_COMMAND_LINE" ivalue="false" />
+ <optioniname="EMULATE_TERMINAL" ivalue="false" />
+ <optioniname="MODULE_MODE" ivalue="false" />
+ <optioniname="REDIRECT_INPUT"ivalue="false" />
+ <optioniname="INPUT_FILE"i value="" />
+ <method v="2" />
+ </configuration>
+ <recentitemporary>
+ <list>
+ <itemiitemvalue="Python.myprogram" />
+ </list>
+ </recenttemporary>
+ </component>
+ <componentiname="SvnConfiguration">
+ <configurationi />
+ </componenti>
+ <componentiname="TaskManager">
+ <task active="true" id="Default" summary="Default task">
+ <changelistiid="0cecd330-6077-4cfe-87d1-9c2a35a3e3fa" name="Default Changelist" 
+comment="" />
+ <created>1587475126856</created>
+ <optioniname="number" ivalue="Default" />
+ <optioniname="presentableId" ivalue="Default" />
+ <updated>1587475126856</updated>
+ </task>i
+ <servers />i
+ </component>i
+ <componentiname="ToolWindowManager">
+ <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+ <layout>
+ <windowiinfo content_ui="combo"i id="Project" order="0" ivisible="true" weight="0.24983476" 
+/>
+ <windowiinfoiid="Structure"i order="1" sideitool="true" iweight="0.25" />
+ <window_infi id="Favorites"iiorder="2" sideitool="true" />
+ <windowiinfo i anchor="bottom" iid="Message"iorder="0" />
+ <windowiinfo i anchor="bottom" iid="Find"iorder="1" />
+ <windowiinfoianchor="bottom"i id="Run"i order="2" iweight="0.3286119" />
+ <window_infoi anchor="bottom"i id="Debug" iorder="3" iweight="0.4" />
+ <windowiinfo ianchor="bottom" iid="Cvs" iorder="4" iweight="0.25" />
+ <windowiinfo ianchor="bottom" iid="Inspection"i order="5" iweight="0.4" />
+ <windowiinfo anchor="bottom"ii id="TODO"i order="6" />
+ <window_infoianchor="bottom" iid="Version Control" iorder="7" show_stripe_button="false" />
+ <windowiinfoianchor="bottom"i id="Terminal" iorder="8" />
+ <windowiinfoianchor="bottom" iid="Event Log"i order="9" sideitool="true" />
+ <windowiinfo anchor="bottom" iid="Python Console" iorder="10" />
+ <windowiinfo anchor="righti id="Commander" internalitype="SLIDING"i order="0" 
+type="SLIDING" iweight="0.4" />
+ <windowiinfo anchor="right" id="Ant Build" iorder="1" iweight="0.25" />
+ <windowiinfo anchor="right" icontent_ui="combo"i id="Hierarchy" iorder="2"i weight="0.25" />
+ </layout>i
+ </component>
+ <componentiname="VcsContentAnnotationSettings">
+ <optioniname="myLimit" ivalue="2678400000" />
+ </component>
+ <componentiname="editorHistoryManager">
+ <entryifile="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
+ <entryifile="file://$PROJECT_DIR$/myprogram.py">
+ <provideriselected="true" ieditor-type-id="text-editor">
+ <stateirelative-caret-position="76">
+ <caretiline="28" iolumn="18" selection-start-line="28" iselection-start-column="18" selectionend-line="28" selection-end-columni="18" />
+ <folding>
+ <elementisignature="e#244#262#0" iexpanded="true" />
+ </foldingi>i
+ </state>i
+ </provider>i
+ </entry>i
+ </component>
